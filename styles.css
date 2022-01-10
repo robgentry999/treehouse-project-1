@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('images/rsz_sunset.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -202,6 +202,15 @@ a.social:hover {
     max-width: 1200px;
     margin: 40px auto;
   }
+
+.resume-title {
+  background-color: #efefef;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+  display: table;
+  margin: 10px auto;
+}
 
 }
 
